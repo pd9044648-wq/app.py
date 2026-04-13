@@ -1,5 +1,4 @@
 import streamlit as st
-import openpyxl
 from io import BytesIO
 
 st.set_page_config(page_title="Pharma Assay Calculator", layout="wide")
